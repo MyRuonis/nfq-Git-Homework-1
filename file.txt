@@ -5,5 +5,5 @@ Hello world!
 Hello wo
 >>>>>>> parent of 4df24f9... Update
 =======
-Hello wor
+Hello world!
 >>>>>>> test1
