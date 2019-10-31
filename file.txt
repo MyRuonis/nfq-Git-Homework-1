@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 Hello worl
 =======
-Hello wo
+Hello wor
 >>>>>>> parent of 4df24f9... Update
 =======
 Hello wor
