@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 Hello world!!
 =======
-Hello wo
+Hello world
 >>>>>>> parent of 4df24f9... Update
 =======
 Hello world!
