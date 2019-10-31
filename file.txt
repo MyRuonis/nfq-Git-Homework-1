@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-Hello worl
+Hello world!
 =======
 Hello world
 >>>>>>> parent of 4df24f9... Update
 =======
-Hello wor
+Hello world!
 >>>>>>> test1
