@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Hello world!!
-=======
-Hello world
->>>>>>> parent of 4df24f9... Update
-=======
-Hello world!
->>>>>>> test1
+
+
+
